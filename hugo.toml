@@ -71,7 +71,7 @@ enableDefault = true
 [params.repository]
   branch = 'main'
   owner = 'zap-le-simple'
-  repo = 'evil-twin-archives'
+  repo = 'ETA'
   service = 'GitHub'
   urlPatternEdit = 'https://github.com/%s/%s/edit/%s/%s'
   urlPatternView = 'https://github.com/%s/%s/blob/%s/%s'
