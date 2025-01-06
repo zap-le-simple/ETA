@@ -1,0 +1,18 @@
+home = "Accueil"
+backToHome = "Revenir à l'accueil"
+about = "À propos"
+contact = "Contact"
+siteUpdates = "Mises à jour"
+GithubEdit = "Modifier cette page"
+
+[article]
+one = "1 article"
+other = "{{ .Count }} articles"
+
+[category]
+one = "1 catégorie"
+other = "{{ .Count }} catégories"
+
+[tag]
+one = "1 étiquette"
+other = "{{ .Count }} étiquettes"

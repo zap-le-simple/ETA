@@ -1,13 +1,16 @@
 ---
-title: "Widescreen"
+title: "Jouer en plein écran"
 author: "Zap' le Simple"
 lang: fr
 slug: widescreen
 ---
 
+# Jouer en plein écran
+
 Il est possible sur chacune des versions du jeu (PS2, Windows, Dreamcast) de configurer l’affichage en 16:9. Il s'agit évidemment d'élargir le champ visuel et non d'étirer l'image. Le jeu s'y prête bien avec ses grands espaces. Sur Dreamcast, si vous jouez sur la console, vous aurez par contre de gros ralentissements.
 
-![Exemple de Widescreen](/images/widescreen-simu.gif)
+![Exemple de Widescreen](/images/widescreen-simu.gif "Exemple d'affichage panoramique")
+{.center-bloc}
 
 ## Dreamcast
 
@@ -77,7 +80,9 @@ Source : [WSGF](https://www.wsgf.org/dr/evil-twin-cypriens-chronicles)
 
 ## Playstation 2
 
-![PCSX2 Cheats screenshot](/images/pcsx2-widescreen.png)
+![PCSX2 Cheats screenshot](/images/pcsx2.png)
 
-Le plus simple :-)  
-[Télécharger ce fichier](https://eviltwin.vibvib.fr/files/5D795715.zip) et glissez-le dans le dossier *cheats\_ws* de PCSX2. Ouvrez le logiciel et dans le menu *PCSX2 > Game Setting* cochez *Patchs automatiques.* Tada !
+Le plus simple :-)
+- Faites un clic-droit sur la jaquette du jeu
+- Propriété > Patchs
+- Cochez *Widescreen*

@@ -9,6 +9,9 @@ slug: vmu-mini-games
 
 Les VMU de la Dreamcast pouvaient accueillir des minis-jeux très simples. Peu de titres ont exploité cette possibilité. Durant le développement d'Evil Twin, un des développeurs, alors en stage, a travaillé sur 4 mini-jeux. Du fait du manque de temps, ils ne furent pas inclus dans le jeu définitif. Leur concepteur, [Omar Cornut les propose sur sa page MiracleWorld.net](http://www.miracleworld.net/segavm/). Vous pouvez y jouer avec [l'émulateur Elysian](http://evmu.elysianshadows.com/).
 
+[Téléchargement](/files/eviltwin_vmsgames.zip)
+{.button}
+
 ## Paper Attack
 
 ![](/images/Evil-Twin-VMU-Paper-Attack.png)

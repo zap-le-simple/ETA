@@ -13,9 +13,9 @@ Un tutoriel rapide pour jouer à Evil Twin sur Windows 10, avec une manette actu
 
 - Installer le jeu, soit depuis les CDs d'origine soit depuis des images disques via WinCDEmu.
 
-- Récupérer et installer la [mise à jour update1](../files.md)  afin de lancer le jeu sur Windows XP et ultérieur.
+- Récupérer et installer la [mise à jour update1](/files/)  afin de lancer le jeu sur Windows XP et ultérieur.
 
-- [Installer le no-CD](../files.md) car depuis Windows 10, ni SafeDisc ni SecuROM fonctionnent.
+- [Installer le no-CD](/files/) car depuis Windows 10, ni SafeDisc ni SecuROM fonctionnent.
 
 - Changer les propriétés de EvilTwin.exe, Video.exe, Splash.exe et SuperPadCfg.exe avec les réglages suivants : Compatibilité Windows XP SP2, Exécuter en tant qu'administrateur, Désactiver les optimisations du mode plein écran. 
 

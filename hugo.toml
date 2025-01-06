@@ -1,11 +1,14 @@
-baseURL = 'http://127.0.0.1:1313/'
+baseURL = 'https://eviltwin.vibvib.fr/'
 languageCode = 'fr-FR'
 title = "Evil Twin : Cyprien's Archives"
 theme = 'temple'
 DefaultContentLanguage = "fr"
+timeout = '360s'
 #defaultContentLanguageInSubdir = true
 #sectionPagesMenu = 'main'
 [Taxonomies]
+[imaging.exif]
+    includeFields = ".*"
 
 [languages]
  [languages.fr]
@@ -46,28 +49,18 @@ enableDefault = true
 [markup.goldmark.renderHooks.link]
 enableDefault = true
     [markup.goldmark.parser]
+     wrapStandAloneImageWithinParagraph = false
       [markup.goldmark.parser.attribute]
         block = true
         title = true
-
-
-
-
+      
 [menus]
-#   [[menus.main]]
-#    name = 'Evil Twin'
-#    pageRef = '/fr/evil-twin-1'
-#    weight = 1
-#   [[menus.main]]
-#    name = 'Evil Twin 2'
-#    pageRef = '/evil-twin-2'
-#    weight = 2
- [[menus.main]]
-    name = 'Medias'
-    url = '/page/gallery/'
-    weight = 3
-    [menus.main.params]
-      rel = 'external'
+#  [[menus.main]]
+#     name = 'Medias'
+#     url = '/page/gallery/'
+#     weight = 3
+#     [menus.main.params]
+#       rel = 'external'
   [[menus.main]]
     name = 'Discord'
     url = 'https://discord.gg/rvRYEtbJ5x'

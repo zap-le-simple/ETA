@@ -10,9 +10,10 @@ menus:
 
 # Evil Twin : Cyprien's Chronicles
 
-- [Développement & contexte](evil1_contexte.md)
-- [Différences entre les versions](evil1_versions.md)
-- [Jouer en plein-écran (16:9)](evil1_widescreen.md)
-- [Jouer au jeu aujourd'hui](evil1_playing.md)
-- [Jouer sur Windows 10](evil1_windows.md)
-- [Les 4 mini-jeux abandonnés](evil1_vmu.md)
+- [Développement & contexte](evil1_contexte)
+- [Différences entre les versions](evil1_versions)
+- [Jouer en plein-écran (16:9)](evil1_widescreen)
+- [Jouer au jeu aujourd'hui](evil1_playing)
+- [Jouer sur Windows 10](evil1_windows)
+- [Les 4 mini-jeux abandonnés](evil1_vmu)
+{.section}

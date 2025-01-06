@@ -10,8 +10,10 @@ menus:
 
 
 # Bonus
-- [Trivia](bonus_trivia.md)
+
+- [Trivia](bonus_trivia)
 - [Site web officiel original](/eviltwin-ubisoft/)
-- [Evil Twin: Kroniki Cypriena](bonus_kroniki_cypriena.md)
-- [Evil Twin Brazilian-Portuguese](bonus_brazilian-portuguese.md)
-- [Prototypes d’Evil Twin](bonus_prototypes.md)
+- [Evil Twin: Kroniki Cypriena](bonus_kroniki_cypriena)
+- [Evil Twin Brazilian-Portuguese](bonus_brazilian-portuguese)
+- [Prototypes d’Evil Twin](bonus_prototypes)
+{.section}

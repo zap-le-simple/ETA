@@ -7,4 +7,8 @@
 /.debris
 .megaignore
 /_vrac
-Icon
+*.jpg
+*.png
+*.jpeg
+*.mp4
+Icon
