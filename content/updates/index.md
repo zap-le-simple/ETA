@@ -7,6 +7,9 @@ slug: updates
 
 # Updates
 
+## 25.01.09 — Nouveau site !
+Une nouvelle année avec un nouveau site qui propose désormais une version italienne rédigée par **Ryopma**. Le site est également modifiable via son repo [GitHub](https://github.com/zap-le-simple/ETA).
+
 ## (23.09.29) _Tutoriel_
 Ajout d'un tutoriel pour l'[installation du jeu sur Windows 10](/evil-twin-1/evil1_windows).
 
