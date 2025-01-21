@@ -1,6 +1,6 @@
 ---
 description: Dreamcast screenshots
-title: Dreamcast screenshots
+title: "Dreamcast screenshots"
 slug: screenshots-dreamcast
 lang: it
 summary: 'Screenshots from Dreamcast'
