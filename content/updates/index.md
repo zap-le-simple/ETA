@@ -7,6 +7,9 @@ slug: updates
 
 # Updates
 
+## 25.03.13 — Post-mortem d'In Utero
+Transcription d'un scan issu du [numéro 142 de Joystick](/medias/presse/joystick_142_post_mortem/). 
+
 ## 25.01.09 — Nouveau site !
 Une nouvelle année avec un nouveau site qui propose désormais une version italienne rédigée par **Ryopma**. Le site est également modifiable via son repo [GitHub](https://github.com/zap-le-simple/ETA).
 
