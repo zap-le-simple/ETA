@@ -60,25 +60,17 @@ Source : [http://retro-magic.de/](http://retro-magic.de/Dreamcast_Hex_Patches_e
 
 ## Windows
 
-This hack doesn't work anymore on Windows 10. It's too technical for me to figure out the reason why.
+*Update from the first of december 2025* : You can now play widescreen thanks to AlphaYellow by using this [mod on Github](https://github.com/alphayellow1/AlphaYellowWidescreenFixes/releases/tag/eviltwincyprienschronicles).
 
-Do the same thing as described on the Dreamcast part. Edit *fnx\_core.dll* inside the game folder.
+-   Extract all files to the game folder.
+-   Download [ThirteenAG's Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)  (32-bit version of dinput.dll), and also extract it to the game folder.
+-   Set the desired resolution and FOV factor in EvilTwinCypriensChroniclesWidescreenFix.ini.
+-   Run video.exe and choose the new resolution in the list.
 
-Find
+Download : 
+- [Evil.Twin.Cyprien.s.Chronicles.-.Widescreen.FOV.Fix.v1.0.rar](/files/Evil.Twin.Cyprien.s.Chronicles.-.Widescreen.FOV.Fix.v1.0.rar)
+- [dinput-Win32.zip](/files/dinput-Win32.zip)
 
-```
-C9 7F 7F 9E C9 7F FF 80 02 00 00 E0 01 00 00 10 00
-```
-
-Replace
-
-```
-C9 7F 7F 9E C9 7F FF 90 06 00 00 1A 04 00 00 10 00
-```
-
-Now, configure the game to 640x480 video mode and you'll get 1680x1050.
-
-Source : [WSGF](https://www.wsgf.org/dr/evil-twin-cypriens-chronicles)
 
 ## Playstation 2
 

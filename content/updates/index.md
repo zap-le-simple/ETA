@@ -7,6 +7,9 @@ slug: updates
 
 # Updates
 
+## 25.12.01
+Ajout du mod [widescreen pour Windows](/evil-twin-1/evil1_windows/)
+
 ## 25.03.13 — Post-mortem d'In Utero
 Transcription d'un scan issu du [numéro 142 de Joystick](/medias/presse/joystick_142_post_mortem/). 
 

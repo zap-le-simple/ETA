@@ -19,7 +19,7 @@ Un tutoriel rapide pour jouer à Evil Twin sur Windows 10, avec une manette actu
 
 - Changer les propriétés de EvilTwin.exe, Video.exe, Splash.exe et SuperPadCfg.exe avec les réglages suivants : Compatibilité Windows XP SP2, Exécuter en tant qu'administrateur, Désactiver les optimisations du mode plein écran. 
 
-![](/images/eviltwin_properties.png)
+![Panneau de propriétés d'Evil Twin](/images/eviltwin_properties.png)
 
 Vous pouvez désormais lancer le jeu, mais il ne pourra dépasser la résolution 1024x768 ni reconnaître votre manette.
 
@@ -31,7 +31,7 @@ Heureusement il existe un super utilitaire nommé [Xidi sur Github](https://gith
 
 Et c'est tout ! Lancez SuperPadCfg.exe puis configurer votre gamepad.
 
-### Améliorer la résolution.
+## Améliorer la résolution.
 
 Par défaut vous ne pouvez dépasser la résolution de 1024 x 768. Cependant avec [le wrapper dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) c'est possible ! Une fois téléchargé, copiez les fichiers contenu dans le répertoire MS/x86 (DDraw.dll, D3DImm.dll, D3D8.dll, D3D9.dll).
 
@@ -45,18 +45,27 @@ Sauvegardez, quittez. Un fichier nommé dgVoodoo.conf se trouver désormais dans
 
 Désormais, quans vous lancerez le jeu, il aura la résolution indiquée dans dgVoodoo.
 
--------
+## Jouer en plein écran / widescreen
+
+Il est maintenant possible de jouer en plein écran sans distorsion grâce au mod de AlphaYellow [sur Github](https://github.com/alphayellow1/AlphaYellowWidescreenFixes/releases/tag/eviltwincyprienschronicles).
+
+-   Extraire les fichiers dans le répertoire du jeu.
+-   Télécharger [ThirteenAG's Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases) (dinput.dll 32-bit) et placer également le fichier dans le répertoire du jeu.
+-   Définir une résolution et un FOV dans EvilTwinCypriensChroniclesWidescreenFix.ini.
+-   Exécuter video.exe et choisir la nouvelle résolution dans la liste.
+
+Download :
+- [Evil.Twin.Cyprien.s.Chronicles.-.Widescreen.FOV.Fix.v1.0.rar](/files/Evil.Twin.Cyprien.s.Chronicles.-.Widescreen.FOV.Fix.v1.0.rar)
+- [dinput-Win32.zip](/files/dinput-Win32.zip)
+
+
+## Notes
 
 Le readme recommande les manettes suivantes : 
 
 - Microsoft Sidewinder 3D PRO
-
 - Thrustmaster Fusion
-
 - InterAct PC PowerPad Pro
-
 - MadCatz-Panther XL
-
-- Guillemot Dual Analog
-
+- Guillemot Dual Analog"""""
 - Interact MakoPad

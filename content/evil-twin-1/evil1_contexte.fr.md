@@ -24,10 +24,13 @@ Ce qui deviendra l'univers d'Evil Twin est pour l'instant esquissé sur des feui
 {.cols}
 Dans sa première version, Wilbur était une autruche.
 
-[![Scan de magazine](/medias/presse/gen4_142/Gen4_N142_Page_64_hu9554230089091314701.jpg)](/medias/presse/gen4_142/Gen4_N142_Page_64.jpg)
-[![Scan de magazine (2)](/medias/presse/gen4_142/Gen4_N142_Page_65_hu8308053785546106232.jpg)](/medias/presse/gen4_142/Gen4_N142_Page_65.jpg)
-{.cols}
+![Cyprien en babygros](/images/CYPRIEN_BMP.png)
+Cyprien dans sa tenue originale, source : [Sega Dreamcast Info](https://www.sega-dreamcast-info-games-preservation.com/evil-twin-in-utero-history-prototype-dreamcast)
 
+
+[![Scan de magazine](/medias/presse/gen4_142/Gen4_N142_Page_64.jpg)](/medias/presse/gen4_142/Gen4_N142_Page_64.jpg)
+[![Scan de magazine (2)](/medias/presse/gen4_142/Gen4_N142_Page_65.jpg)](/medias/presse/gen4_142/Gen4_N142_Page_65.jpg)
+{.cols}
 Croquis préparatoires extraits de Gen4 N°142
 
 Le concept est d’abord présenté à Canal+ avec l'idée d'en faire une série animée. Mais la chaîne oriente alors l’équipe vers la création d'un jeu vidéo sans pour autant s’engager à travers sa filiale Multimedia. In Utero approche par la suite d’autres éditeurs comme SEGA et conclu presque avec eux [^3]. Finalement c’est Ubi Soft, qui convaincu par une démo jouable à l'ECTS 98, signe l’édition du jeu.[^4]

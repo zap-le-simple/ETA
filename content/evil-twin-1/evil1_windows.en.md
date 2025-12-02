@@ -40,7 +40,20 @@ In the DirectX tab, there is many options to update the graphic rendition (excep
 
 Save & quit. A file called dgVoodoo.conf is now located next to the program. Next time you will launch the game, the resolution will be given by dgVoodoo.
 
----
+## Widescreen
+
+You can now play widescreen thanks to AlphaYellow by using this [mod on Github](https://github.com/alphayellow1/AlphaYellowWidescreenFixes/releases/tag/eviltwincyprienschronicles).
+
+-   Extract all files to the game folder.
+-   Download [ThirteenAG's Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)  (32-bit version of dinput.dll), and also extract it to the game folder.
+-   Set the desired resolution and FOV factor in EvilTwinCypriensChroniclesWidescreenFix.ini.
+-   Run video.exe and choose the new resolution in the list.
+
+Download : 
+- [Evil.Twin.Cyprien.s.Chronicles.-.Widescreen.FOV.Fix.v1.0.rar](/files/Evil.Twin.Cyprien.s.Chronicles.-.Widescreen.FOV.Fix.v1.0.rar)
+- [dinput-Win32.zip](/files/dinput-Win32.zip)
+
+## Notes
 
 The original readme file recommends theses controllers :
 

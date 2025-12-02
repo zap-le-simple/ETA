@@ -58,25 +58,16 @@ Source : [http://retro-magic.de/](http://retro-magic.de/Dreamcast_Hex_Patches_e
 
 ## Windows
 
-La technique permettant de jouer en plein-écran sur PC, fonctionnait parfaitement à l'époque de Windows XP. Une raison trop technique pour l'auteur de ces lignes l'empêche de fonctionner correctement sur Windows 10.
+*Mise à jour du 1/12/2025* : Il est maintenant possible de jouer en plein écran sans distorsion grâce au mod de AlphaYellow [sur Github](https://github.com/alphayellow1/AlphaYellowWidescreenFixes/releases/tag/eviltwincyprienschronicles).
 
-Même exercice que sur Dreamcast, avec un éditeur hexadécimal ouvrez le fichier *fnx\_core.dll* présent dans le répertoire du jeu. Ensuite :
+-   Extraire les fichiers dans le répertoire du jeu.
+-   Télécharger [ThirteenAG's Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases) (dinput.dll 32-bit) et placer également le fichier dans le répertoire du jeu.
+-   Définir une résolution et un FOV dans EvilTwinCypriensChroniclesWidescreenFix.ini.
+-   Exécuter video.exe et choisir la nouvelle résolution dans la liste.
 
-Chercher
-
-```
-C9 7F 7F 9E C9 7F FF 80 02 00 00 E0 01 00 00 10 00
-```
-
-Remplacer
-
-```
-C9 7F 7F 9E C9 7F FF 90 06 00 00 1A 04 00 00 10 00
-```
-
-Maintenant en sélectionnant la résolution 640x480, le jeu se lance en 1680x1050.
-
-Source : [WSGF](https://www.wsgf.org/dr/evil-twin-cypriens-chronicles)
+Download :
+- [Evil.Twin.Cyprien.s.Chronicles.-.Widescreen.FOV.Fix.v1.0.rar](/files/Evil.Twin.Cyprien.s.Chronicles.-.Widescreen.FOV.Fix.v1.0.rar)
+- [dinput-Win32.zip](/files/dinput-Win32.zip)
 
 ## Playstation 2
 
